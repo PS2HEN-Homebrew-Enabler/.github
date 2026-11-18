@@ -1,5 +1,5 @@
 
-# PS3HEN — PlayStation 3 Homebrew Enabler
+# PS2HEN — PlayStation 2 Homebrew Enabler
 
 <p align="center">
   <strong>Homebrew functionality and system tools for supported PlayStation 3 consoles</strong>
